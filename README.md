@@ -1,3 +1,6 @@
 <center>
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white" height="22"> 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ios-carki&show_icons=true&theme=locale)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ios-carki&layout=compact)
 </center>
