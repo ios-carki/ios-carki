@@ -9,8 +9,11 @@
   #### Hello! I'm iOS App Developer Carki! :bow:
   
   #### :information_desk_person: Studying... 
+  <img src="https://img.icons8.com/fluency/48/null/swiftui.png"/> 
+  </br>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=white"/> </br>
+  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX&logoColor=white"/>
+  </br>
   
   #### :coffee: Hobby & Likes... 
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/> 
