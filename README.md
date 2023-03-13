@@ -1,3 +1,4 @@
+<!--
 <div align="center">
  
   <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=60&section=header&text=About Carki&fontSize=50" />
@@ -58,3 +59,4 @@
   
 
 </div>
+-->
