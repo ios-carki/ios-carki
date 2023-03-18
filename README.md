@@ -1,8 +1,6 @@
-<!--
+ <!--
 <div align="center">
- 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=60&section=header&text=About Carki&fontSize=50" />
-  </br>
   </br>
   
   #### 안녕하세요! iOS 앱 개발자 Carki 입니다!.:bow:
@@ -60,3 +58,19 @@
 
 </div>
 -->
+# About Carki :trollface:
+- :bow: Hi, I'm iOS App Dev Carki!
+
+- :blue_book: I'm currently studying SwiftUI, Blockchain.
+
+- :smile: Thank you for visiting my GitHub
+
+<div align="center">
+
+## My :apple: App :apple:
+  
+[![스크린샷 2023-01-09 오전 5 47 41](https://user-images.githubusercontent.com/44957712/211218316-c7be8eca-5eb8-4e44-a8f3-4bd4a4ea7600.png)](https://apps.apple.com/kr/app/%EB%8F%84%ED%8A%B8%EA%B0%90%EC%84%B1-%EC%9D%BC%EC%A0%95%EA%B4%80%EB%A6%AC-%EC%95%B1-%EB%89%B4%ED%8A%B8%EB%A1%9C-%ED%88%AC%EB%91%90/id1645004550)
+  
+<img width="979" alt="스크린샷 2023-01-13 오후 11 02 34" src="https://user-images.githubusercontent.com/44957712/212337927-1ff51dc8-699a-4fb5-9cf8-16ede0d11380.png">
+ 
+ </div>
