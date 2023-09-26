@@ -61,7 +61,7 @@
 # About Carki :trollface:
 - :bow: Hi, I'm iOS App Dev Carki!
 
-- :blue_book: I'm currently studying SwiftUI, BackEnd Server(Vapor), Blockchain(Cosmos SDK).
+- :blue_book: I'm currently studying SwiftUI, BackEnd Server(Vapor), Blockchain(Cosmos SDK, ETH ..), GoLang.
 
 - :smile: Thank you for visiting my GitHub
 
