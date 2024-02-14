@@ -58,10 +58,10 @@
 
 </div>
 -->
-# About Carki :trollface:
-- :bow: Hi, I'm iOS App Dev Carki!
+# About Owen :trollface:
+- :bow: Hi, I'm iOS App Dev Owen!
 
-- :blue_book: I'm currently studying CustomView with SwiftUI, Library written in Swift, BackEnd Server(Vapor), Blockchain(Cosmos, ETH, SOL Network) Wallet.
+- :blue_book: I'm currently studying CustomView with SwiftUI, Library written in Swift, BackEnd Server(Vapor), Blockchain(Cosmos, Ethereum, Tron Network) Wallet.
 
 - :smile: Thank you for visiting my GitHub
 
