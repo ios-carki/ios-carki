@@ -65,12 +65,38 @@
 
 - :smile: Thank you for visiting my GitHub
 
-<div align="center">
 
-## My :apple: App :apple:
+# :apple: My Apps :apple:
+
+ <div align="leading">
   
+## Diary App
+ 
+</div>
+
+<div align="leading">
+ 
+[![스크린샷 2023-01-09 오전 5 47 41](https://user-images.githubusercontent.com/44957712/211218316-c7be8eca-5eb8-4e44-a8f3-4bd4a4ea7600.png)](https://apps.apple.com/kr/app/%ED%95%98%EC%B2%A0%EC%9D%BC%EA%B8%B0/id6523419099)
+
+</div>
+
+<div align="center">
+ 
+![스크린샷 2024-08-12 오전 9 58 19](https://github.com/user-attachments/assets/ce7664e4-04e5-4aae-873d-6e63677c6956)
+
+</div>
+
+<div align="leading">
+ 
+## TODO App
+</div>
+
+<div align="leading">
+ 
 [![스크린샷 2023-01-09 오전 5 47 41](https://user-images.githubusercontent.com/44957712/211218316-c7be8eca-5eb8-4e44-a8f3-4bd4a4ea7600.png)](https://apps.apple.com/kr/app/%EB%8F%84%ED%8A%B8%EA%B0%90%EC%84%B1-%EC%9D%BC%EC%A0%95%EA%B4%80%EB%A6%AC-%EC%95%B1-%EB%89%B4%ED%8A%B8%EB%A1%9C-%ED%88%AC%EB%91%90/id1645004550)
   
+<div align="center">
+ 
 <img width="979" alt="스크린샷 2023-01-13 오후 11 02 34" src="https://user-images.githubusercontent.com/44957712/212337927-1ff51dc8-699a-4fb5-9cf8-16ede0d11380.png">
  
  </div>
