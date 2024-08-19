@@ -82,7 +82,7 @@
 
 <div align="center">
  
-![스크린샷 2024-08-12 오전 9 58 19](https://github.com/user-attachments/assets/ce7664e4-04e5-4aae-873d-6e63677c6956)
+![스크린샷 2024-08-19 오후 3 58 07](https://github.com/user-attachments/assets/91593a81-8833-42c7-a535-6357c5b7b1a7)
 
 </div>
 
