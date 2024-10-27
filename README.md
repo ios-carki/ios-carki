@@ -61,7 +61,7 @@
 # About Owen :trollface:
 - :bow: Hi, I'm iOS App Dev Owen!
 
-- :blue_book: I'm currently studying CustomView with SwiftUI, Library written in Swift, BackEnd Server(Vapor), Blockchain(Cosmos, Ethereum, Tron Network) Wallet.
+- :blue_book: I'm currently studying Clean Architecture in iOS, CustomView with SwiftUI.
 
 - :smile: Thank you for visiting my GitHub
 
